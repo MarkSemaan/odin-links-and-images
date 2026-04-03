@@ -11,3 +11,7 @@ Href is the value of the anchor tag telling where the link will go to, and targe
 ### Absolute and Relative Links
 
 Absolute links point to other pages on the internet, relative links point to another page relative to the page you are clicking the link on.
+
+## Images
+
+To display images in our page, we use the `<img>` element.
