@@ -15,3 +15,5 @@ Absolute links point to other pages on the internet, relative links point to ano
 ## Images
 
 To display images in our page, we use the `<img>` element.
+
+Of course, `<img>` is a void element, they do not need closing tags. `src=` points to the image that you want to use. You can use both absolute link for resources outside your server, or relative links for images you have downloaded.
