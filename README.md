@@ -21,3 +21,7 @@ Of course, `<img>` is a void element, they do not need closing tags. `src=` poin
 ### Alt Attribute
 
 It is used to describe an image. It will be used in place of the image if it cannot be loaded.
+
+### Size Attribute
+
+Specifying specifying height and width attributes in image tags helps the browser layout the page without causing the page to jump and flash.
